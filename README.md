@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Betrayal0526
-- 👀 I’m interested in Progremming.
+- 👀 I’m interested in Programming.
 - 🌱 I’m currently learning C.
-- 📫 How to reach me : instargrem @taeyoon0526.
+- 📫 How to reach me : instargram@taeyoon0526.
 - 😄 Pronouns: He/His
 
 <!---
